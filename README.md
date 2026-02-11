@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Kevin</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
+<img src="https://imgur.com/a/usTSpA3">
 
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
