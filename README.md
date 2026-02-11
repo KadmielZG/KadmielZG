@@ -1,9 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Kevin</a> 👋</h1>
 </div>
-<p align="center">
   <img src="assets/banner.png" />
-</p>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 
