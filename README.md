@@ -39,18 +39,15 @@
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<br>
+<h3 align="center">Todo List WebApp</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
+
 </p>
 
 </div>                                                             
@@ -61,7 +58,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Restaurant - Django&React</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"></a>
 <p>
@@ -78,7 +75,7 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Basic Android App</h3>
 <div align="center">
 
 <p>
