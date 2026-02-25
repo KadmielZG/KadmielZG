@@ -45,7 +45,7 @@
 <h3 align="center">Android Basic App</h3>
 <div align="center">
 <a href="LINK_DE_TU_REPO_AQUI">
-<img src="https://i.imgur.com/wEAoWfo.png" width="65%" height=>
+<img src="https://i.imgur.com/wEAoWfo.png" width="50%" height=>
 </a>
 <p>Kotlin • Jetpack Compose • </p>
 </div>
