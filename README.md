@@ -32,22 +32,22 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🍔 Android Food Delivery App</h3>
+<h3 align="center">Todo List WebApp</h3>
 <div align="center">
 <a href="LINK_DE_TU_REPO_AQUI">
 <img src="https://i.imgur.com/CuMIDAe.png" width="90%">
 </a>
-<p>Kotlin • Jetpack Compose • Firebase</p>
+<p>HTML • CSS • JavaScript</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">📝 Todo List WebApp</h3>
+<h3 align="center">Android Basic App</h3>
 <div align="center">
 <a href="LINK_DE_TU_REPO_AQUI">
-<img src="https://i.imgur.com/wEAoWfo.png" width="90%">
+<img src="https://i.imgur.com/wEAoWfo.png" width="65%" height=>
 </a>
-<p>React • Django • PostgreSQL</p>
+<p>Kotlin • Jetpack Compose • </p>
 </div>
 </td>
 </tr>
