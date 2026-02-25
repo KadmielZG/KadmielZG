@@ -45,9 +45,6 @@
 <img src="https://i.imgur.com/CuMIDAe.png">
 <br>
 <p>
-
-</a>
-
 </p>
 
 </div>                                                             
@@ -81,7 +78,7 @@
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 
 </a>
-
+<img src="https://i.imgur.com/wEAoWfo.png">
 </a>
 </p>
 
