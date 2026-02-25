@@ -14,7 +14,7 @@
 
 - 📱 Software developer, backend & mobile
 - 🧠 Interesado en Machine Learning y AI aplicada
-- ⚙️ Me gustan los proyectos que interactúan con hardware y sensores
+- ⚙️ Math lover 
 - 📍 Monterrey, México
 
 ---
