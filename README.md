@@ -21,14 +21,12 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Android Food Delivery App</h3>
 <div align="center">
 <a href="_blank" target="_blank"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+
 
 </a>
 </p>
@@ -51,7 +49,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -71,7 +69,7 @@
 
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+
 </div>
                                                                                       
 </td>       
@@ -88,7 +86,7 @@
 
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+
 </div>
                                                                                       
 </td>  
