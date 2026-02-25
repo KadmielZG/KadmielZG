@@ -1,99 +1,63 @@
 <div align="center">
-<h1 align="center">Hola, soy Kevin</a> 👋</h1>
+
+# 👋 Hola, soy Kevin
+
+<img src="https://i.imgur.com/10hiOdW.png" width="85%" />
+
+### Android Developer | Kotlin | Jetpack Compose
+
 </div>
-<div align="center"> 
-<img src="https://i.imgur.com/10hiOdW.png" />
-</div>
 
+---
 
+## 🚀 Sobre mí
 
+- 📱 Android Developer especializado en Kotlin y Jetpack Compose
+- 🧠 Interesado en Machine Learning y AI aplicada
+- ⚙️ Me gustan los proyectos que interactúan con hardware y sensores
+- 📍 Monterrey, México
 
+---
 
-## Sobre mi
+## 🛠️ Tech Stack
 
-- 📲 Developer
-- ❇️ Math Lover
-- 🤖 AI Enthusiast
-- 🎥 Data Enjoyer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,react,django,python,mysql,git" />
+</p>
 
+---
 
+## 🚀 Proyectos Destacados
 
-<br>
-
-## Proyectos 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Android Food Delivery App</h3>
+<h3 align="center">🍔 Android Food Delivery App</h3>
 <div align="center">
-<a href="_blank" target="_blank"></a>
-<p>
-
-
-
+<a href="LINK_DE_TU_REPO_AQUI">
+<img src="https://i.imgur.com/CuMIDAe.png" width="90%">
 </a>
-</p>
-<p></p>
+<p>Kotlin • Jetpack Compose • Firebase</p>
 </div>
-                                                                                      
 </td>
 
 <td width="50%">
-<br>
-<h3 align="center">Todo List WebApp</h3>
-<div align="center">                                       
-<img src="https://i.imgur.com/CuMIDAe.png">
-<br>
-<p>
-</p>
-
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Restaurant - Django&React</h3>
+<h3 align="center">📝 Todo List WebApp</h3>
 <div align="center">
-<p>
-
-
+<a href="LINK_DE_TU_REPO_AQUI">
+<img src="https://i.imgur.com/wEAoWfo.png" width="90%">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-
-</a>
-</p>
-
+<p>React • Django • PostgreSQL</p>
 </div>
-                                                                                      
-</td>       
+</td>
+</tr>
+</table>
 
-<td width="50%">
-<h3 align="center">Basic Android App</h3>
-<div align="center">
+---
 
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-
-</a>
-<img src="https://i.imgur.com/wEAoWfo.png">
-</a>
-</p>
-
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/KadmielZG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KadmielZG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KadmielZG&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KadmielZG&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadmielZG&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
