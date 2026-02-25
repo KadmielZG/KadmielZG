@@ -42,7 +42,7 @@
 <br>
 <h3 align="center">Todo List WebApp</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"></a>
+
 <br>
 <p>
 
@@ -60,9 +60,8 @@
 <td width="50%">
 <h3 align="center">Restaurant - Django&React</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+
 
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
@@ -82,7 +81,6 @@
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
 
 </a>
 </p>
