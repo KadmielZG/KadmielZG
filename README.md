@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/10hiOdW.png" width="85%" />
 
-### Android Developer | Kotlin | Jetpack Compose
+### Software Developer | Kotlin | Python
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-- 📱 Android Developer especializado en Kotlin y Jetpack Compose
+- 📱 Software developer, backend & mobile
 - 🧠 Interesado en Machine Learning y AI aplicada
 - ⚙️ Me gustan los proyectos que interactúan con hardware y sensores
 - 📍 Monterrey, México
