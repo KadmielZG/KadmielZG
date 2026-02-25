@@ -45,7 +45,7 @@
 <h3 align="center">Android Basic App</h3>
 <div align="center">
 <a href="LINK_DE_TU_REPO_AQUI">
-<img src="https://i.imgur.com/wEAoWfo.png" width="50%" height=>
+<img src="https://i.imgur.com/wEAoWfo.png" width="40%" height=>
 </a>
 <p>Kotlin • Jetpack Compose • </p>
 </div>
@@ -55,9 +55,11 @@
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KadmielZG&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadmielZG&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/KadmielZG">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KadmielZG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KadmielZG&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
