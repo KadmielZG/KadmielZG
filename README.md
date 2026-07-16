@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/10hiOdW.png" width="85%" />
 
-### Software Developer | Kotlin | Python
+### Software Developer | C# | Backend | Mobile 
 
 </div>
 
@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,react,django,python,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=cs,androidstudio,sql,django,python,mysql,git" />
 </p>
 
 ---
